@@ -175,13 +175,13 @@ print(classification_report(y_test, predictions))
 
 <H3>Output:</H3>
 
-### PREDICTION:
+#### PREDICTION:
 ![alt text](prediction.png)
 
-### CONFUSION MATRIX:
+#### CONFUSION MATRIX:
 ![alt text](conf_mat.png)
 
-### CLASSIFICATION REPORT:
+#### CLASSIFICATION REPORT:
 ![alt text](class_report.png)
 
 
